@@ -1,0 +1,6 @@
+{
+  "name": "Ms. Heavy Metal Leaf - Hyperaccumulator Bio-Bot",
+  "description": "Autonomous botanical-cybernetic bio-bot grown in a humanoid sensor mold, with Aero-Spore drone, bio-metallic root wiring, and full fabrication blueprints and Fiverr commissioning kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
